@@ -1,4 +1,5 @@
 ﻿// real world example: https://github.com/dotnet/aspnetcore/blob/main/src/Http/Http/src/HttpContextAccessor.cs
+// best to avoid AsyncLocal as much as possible: https://twitter.com/davidfowl/status/1563935285754593281 
 
 using Spectre.Console;
 
